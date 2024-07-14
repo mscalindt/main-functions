@@ -1,3 +1,13 @@
+# Deprecation Notice
+
+This repository is no longer maintained. Development has moved to
+[`shell-glossary`](https://github.com/mscalindt/shell-glossary).
+
+Please refer to [`shell-glossary`](https://github.com/mscalindt/shell-glossary)
+for ongoing development and updates.
+
+---
+
 A collection of reusable pure POSIX `sh` functions to make shell option parsing
 a breeze.
 
